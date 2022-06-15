@@ -1,0 +1,25 @@
+.OO{
+  background-color:RED;
+  height:100PX;
+  width:100PX;
+  position:absolute;
+  display:block;
+
+}
+.PP{
+  background-color:BLUE;
+height:100PX;
+width:100PX;
+position:absolute;
+left:100PX;
+display: block;
+
+}
+.VV {
+  background-color:YELLOW;
+height:100PX;
+width:100PX;
+position:absolute;
+left:200px;
+display:block;
+}
